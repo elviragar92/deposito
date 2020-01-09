@@ -1,3 +1,9 @@
+/** 
+ * este es un comentario de prueba
+ * @author Elvira
+ * comentario para la tarea de EDD04 
+ */
+
 public class CCuenta {
 
 
